@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Toy Story",
+    "year": "1995",
+    "studio": "Pixar",
+    "overview": "A cowboy doll is profoundly threatened...",
+    "rating": "G",
+    "posterPath": "pics/jeff.png",
+    "categories": ["recommended"]
+  }
+]
