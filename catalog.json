@@ -1,22 +1,42 @@
 [
   {
     "id": 1,
-    "title": "Toy Story",
+    "title": "Slenderman",
     "year": "1995",
     "studio": "Pixar",
     "overview": "A cowboy doll is profoundly threatened...",
     "rating": "G",
-    "posterPath": "pics/jeff.png",
+    "posterPath": "pics/slender_man.png",
     "categories": ["recommended"]
   },
   {
     "id": 2,
-    "title": "РОМАМАААА ГЕЙМДЕВИТЬ БЫСТРА",
+    "title": "Jeff The Killer",
     "year": "1995",
     "studio": "Pixar",
     "overview": "A cowboy doll is profoundly threatened...",
     "rating": "G",
-    "posterPath": "pics/jeff.png",
+    "posterPath": "pics/jeff_2.png",
+    "categories": ["recommended"]
+  },
+  {
+    "id": 3,
+    "title": "Dog The Killer",
+    "year": "1995",
+    "studio": "Pixar",
+    "overview": "A cowboy doll is profoundly threatened...",
+    "rating": "G",
+    "posterPath": "pics/dog_the_killer.png",
+    "categories": ["recommended"]
+  },
+  {
+    "id": 4,
+    "title": "SCP - 173",
+    "year": "1995",
+    "studio": "Pixar",
+    "overview": "A cowboy doll is profoundly threatened...",
+    "rating": "G",
+    "posterPath": "pics/scp173.png",
     "categories": ["recommended"]
   }
 ]
