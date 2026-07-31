@@ -5,8 +5,8 @@
     "year": "",
     "studio": "",
     "overview": "Modern desert nation with global cities and trade.",
-    "rating": "G",
     "posterPath": "pics/ae.png",
+    "population": 10400000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -15,8 +15,8 @@
     "year": "",
     "studio": "",
     "overview": "Famous for tango, Patagonia and rich culture.",
-    "rating": "G",
     "posterPath": "pics/ar.png",
+    "population": 46000000,
     "categories": ["recommended", "South America"]
   },
   {
@@ -25,8 +25,8 @@
     "year": "",
     "studio": "",
     "overview": "Alpine country known for music and history.",
-    "rating": "G",
     "posterPath": "pics/at.png",
+    "population": 9000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -35,8 +35,8 @@
     "year": "",
     "studio": "",
     "overview": "Island continent with unique wildlife and reefs.",
-    "rating": "G",
     "posterPath": "pics/au.png",
+    "population": 26000000,
     "categories": ["recommended", "Oceania"]
   },
   {
@@ -45,8 +45,8 @@
     "year": "",
     "studio": "",
     "overview": "Historic Balkan nation with mountains and coast.",
-    "rating": "G",
     "posterPath": "pics/bg.png",
+    "population": 7000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -55,8 +55,8 @@
     "year": "",
     "studio": "",
     "overview": "Largest South American nation and Amazon home.",
-    "rating": "G",
     "posterPath": "pics/br.png",
+    "population": 215000000,
     "categories": ["recommended", "South America"]
   },
   {
@@ -65,8 +65,8 @@
     "year": "",
     "studio": "",
     "overview": "Vast northern country of forests and lakes.",
-    "rating": "G",
     "posterPath": "pics/ca.png",
+    "population": 39000000,
     "categories": ["recommended", "North America"]
   },
   {
@@ -75,8 +75,8 @@
     "year": "",
     "studio": "",
     "overview": "Central African nation rich in rainforests.",
-    "rating": "G",
     "posterPath": "pics/cd-bzv.png",
+    "population": 5700000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -85,8 +85,8 @@
     "year": "",
     "studio": "",
     "overview": "Mountain nation famous for Alps and watches.",
-    "rating": "G",
     "posterPath": "pics/ch.png",
+    "population": 8600000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -95,8 +95,8 @@
     "year": "",
     "studio": "",
     "overview": "Long Pacific nation with deserts and glaciers.",
-    "rating": "G",
     "posterPath": "pics/cl.png",
+    "population": 19500000,
     "categories": ["recommended", "South America"]
   },
   {
@@ -105,8 +105,8 @@
     "year": "",
     "studio": "",
     "overview": "Ancient civilization and global economic power.",
-    "rating": "G",
     "posterPath": "pics/cn.png",
+    "population": 1420000000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -115,8 +115,8 @@
     "year": "",
     "studio": "",
     "overview": "Diverse country of mountains, coffee and coasts.",
-    "rating": "G",
     "posterPath": "pics/co.png",
+    "population": 52000000,
     "categories": ["recommended", "South America"]
   },
   {
@@ -125,8 +125,8 @@
     "year": "",
     "studio": "",
     "overview": "European leader known for engineering and culture.",
-    "rating": "G",
     "posterPath": "pics/de.png",
+    "population": 84000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -135,8 +135,8 @@
     "year": "",
     "studio": "",
     "overview": "Nordic kingdom with islands and happy living.",
-    "rating": "G",
     "posterPath": "pics/dk.png",
+    "population": 5900000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -145,8 +145,8 @@
     "year": "",
     "studio": "",
     "overview": "Largest African country with vast Sahara lands.",
-    "rating": "G",
     "posterPath": "pics/dz.png",
+    "population": 45000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -155,8 +155,8 @@
     "year": "",
     "studio": "",
     "overview": "Baltic nation known for forests and technology.",
-    "rating": "G",
     "posterPath": "pics/ee.png",
+    "population": 1300000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -165,8 +165,8 @@
     "year": "",
     "studio": "",
     "overview": "Home of pyramids, Nile River and ancient history.",
-    "rating": "G",
     "posterPath": "pics/eg.png",
+    "population": 110000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -175,8 +175,8 @@
     "year": "",
     "studio": "",
     "overview": "Sunny nation of beaches, art and rich heritage.",
-    "rating": "G",
     "posterPath": "pics/es.png",
+    "population": 47000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -185,8 +185,8 @@
     "year": "",
     "studio": "",
     "overview": "Historic African nation with unique traditions.",
-    "rating": "G",
     "posterPath": "pics/et.png",
+    "population": 125000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -195,8 +195,8 @@
     "year": "",
     "studio": "",
     "overview": "Land of lakes, forests and northern lights.",
-    "rating": "G",
     "posterPath": "pics/fi.png",
+    "population": 5600000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -205,8 +205,8 @@
     "year": "",
     "studio": "",
     "overview": "Known for art, cuisine, fashion and landmarks.",
-    "rating": "G",
     "posterPath": "pics/fr.png",
+    "population": 67000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -215,8 +215,8 @@
     "year": "",
     "studio": "",
     "overview": "Island nation with royal history and culture.",
-    "rating": "G",
     "posterPath": "pics/gb.png",
+    "population": 67000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -225,8 +225,8 @@
     "year": "",
     "studio": "",
     "overview": "Caucasus country famous for wine and mountains.",
-    "rating": "G",
     "posterPath": "pics/ge.png",
+    "population": 3700000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -235,8 +235,8 @@
     "year": "",
     "studio": "",
     "overview": "World's largest island covered by vast ice.",
-    "rating": "G",
     "posterPath": "pics/gl.png",
+    "population": 56000,
     "categories": ["recommended", "North America"]
   },
   {
@@ -245,8 +245,8 @@
     "year": "",
     "studio": "",
     "overview": "Birthplace of democracy with islands and ruins.",
-    "rating": "G",
     "posterPath": "pics/gr.png",
+    "population": 10500000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -255,8 +255,8 @@
     "year": "",
     "studio": "",
     "overview": "Vast nation of diverse cultures and traditions.",
-    "rating": "G",
     "posterPath": "pics/in.png",
+    "population": 1400000000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -265,8 +265,8 @@
     "year": "",
     "studio": "",
     "overview": "Historic country of art, pasta and ancient Rome.",
-    "rating": "G",
     "posterPath": "pics/it.png",
+    "population": 60000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -275,8 +275,8 @@
     "year": "",
     "studio": "",
     "overview": "Safari destination with wildlife and savannas.",
-    "rating": "G",
     "posterPath": "pics/ke.png",
+    "population": 54000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -285,8 +285,8 @@
     "year": "",
     "studio": "",
     "overview": "Mountainous Central Asian nation of nomad culture.",
-    "rating": "G",
     "posterPath": "pics/kg.png",
+    "population": 6700000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -295,8 +295,8 @@
     "year": "",
     "studio": "",
     "overview": "Largest Central Asian nation with vast steppes.",
-    "rating": "G",
     "posterPath": "pics/kz.png",
+    "population": 19000000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -305,8 +305,8 @@
     "year": "",
     "studio": "",
     "overview": "Tiny Alpine principality between Austria and Swiss.",
-    "rating": "G",
     "posterPath": "pics/li.png",
+    "population": 39000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -315,8 +315,8 @@
     "year": "",
     "studio": "",
     "overview": "North African kingdom with deserts and markets.",
-    "rating": "G",
     "posterPath": "pics/ma.png",
+    "population": 38000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -325,8 +325,8 @@
     "year": "",
     "studio": "",
     "overview": "Island famous for unique wildlife and forests.",
-    "rating": "G",
     "posterPath": "pics/mg.png",
+    "population": 29000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -335,8 +335,8 @@
     "year": "",
     "studio": "",
     "overview": "Colorful nation known for cuisine and history.",
-    "rating": "G",
     "posterPath": "pics/mx.png",
+    "population": 130000000,
     "categories": ["recommended", "North America"]
   },
   {
@@ -345,8 +345,8 @@
     "year": "",
     "studio": "",
     "overview": "Africa's most populous country and energy giant.",
-    "rating": "G",
     "posterPath": "pics/ng.png",
+    "population": 220000000,
     "categories": ["recommended", "Africa"]
   },
   {
@@ -355,8 +355,8 @@
     "year": "",
     "studio": "",
     "overview": "Nordic land of fjords, mountains and nature.",
-    "rating": "G",
     "posterPath": "pics/no.png",
+    "population": 5500000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -365,8 +365,8 @@
     "year": "",
     "studio": "",
     "overview": "Island nation with tropical beaches and culture.",
-    "rating": "G",
     "posterPath": "pics/ph.png",
+    "population": 113000000,
     "categories": ["recommended", "Asia"]
   },
   {
@@ -375,8 +375,8 @@
     "year": "",
     "studio": "",
     "overview": "Central European nation rich in history and arts.",
-    "rating": "G",
     "posterPath": "pics/pl.png",
+    "population": 38000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -385,8 +385,8 @@
     "year": "",
     "studio": "",
     "overview": "Atlantic nation known for explorers and coasts.",
-    "rating": "G",
     "posterPath": "pics/pt.png",
+    "population": 10000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -395,8 +395,8 @@
     "year": "",
     "studio": "",
     "overview": "Carpathian country with castles and traditions.",
-    "rating": "G",
     "posterPath": "pics/ro.png",
+    "population": 19000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -405,8 +405,8 @@
     "year": "",
     "studio": "",
     "overview": "World's largest country spanning Europe and Asia.",
-    "rating": "G",
     "posterPath": "pics/ru.png",
+    "population": 144000000,
     "categories": ["recommended", "Europe", "Asia"]
   },
   {
@@ -415,8 +415,8 @@
     "year": "",
     "studio": "",
     "overview": "Scandinavian nation of forests and innovation.",
-    "rating": "G",
     "posterPath": "pics/se.png",
+    "population": 10500000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -425,8 +425,8 @@
     "year": "",
     "studio": "",
     "overview": "Eastern European nation with fertile plains.",
-    "rating": "G",
     "posterPath": "pics/ua.png",
+    "population": 38000000,
     "categories": ["recommended", "Europe"]
   },
   {
@@ -435,8 +435,8 @@
     "year": "",
     "studio": "",
     "overview": "Large nation with diverse landscapes and culture.",
-    "rating": "G",
     "posterPath": "pics/usa.png",
+    "population": 333000000,
     "categories": ["recommended", "North America"]
   },
   {
@@ -445,8 +445,8 @@
     "year": "",
     "studio": "",
     "overview": "Southern nation with wildlife and rich diversity.",
-    "rating": "G",
     "posterPath": "pics/za.png",
+    "population": 60000000,
     "categories": ["recommended", "Africa"]
   }
 ]
