@@ -1,42 +1,452 @@
 [
   {
     "id": 1,
-    "title": "Slenderman",
-    "year": "1995",
-    "studio": "Pixar",
-    "overview": "A cowboy doll is profoundly threatened...",
+    "title": "United Arab Emirates",
+    "year": "",
+    "studio": "",
+    "overview": "Modern desert nation with global cities and trade.",
     "rating": "G",
-    "posterPath": "pics/slender_man.png",
-    "categories": ["recommended"]
+    "posterPath": "pics/ae.png",
+    "categories": ["recommended", "Asia"]
   },
   {
     "id": 2,
-    "title": "Jeff The Killer",
-    "year": "1995",
-    "studio": "Pixar",
-    "overview": "A cowboy doll is profoundly threatened...",
+    "title": "Argentina",
+    "year": "",
+    "studio": "",
+    "overview": "Famous for tango, Patagonia and rich culture.",
     "rating": "G",
-    "posterPath": "pics/jeff_2.png",
-    "categories": ["recommended"]
+    "posterPath": "pics/ar.png",
+    "categories": ["recommended", "South America"]
   },
   {
     "id": 3,
-    "title": "Dog The Killer",
-    "year": "1995",
-    "studio": "Pixar",
-    "overview": "A cowboy doll is profoundly threatened...",
+    "title": "Austria",
+    "year": "",
+    "studio": "",
+    "overview": "Alpine country known for music and history.",
     "rating": "G",
-    "posterPath": "pics/dog_the_killer.png",
-    "categories": ["recommended"]
+    "posterPath": "pics/at.png",
+    "categories": ["recommended", "Europe"]
   },
   {
     "id": 4,
-    "title": "SCP - 173",
-    "year": "1995",
-    "studio": "Pixar",
-    "overview": "A cowboy doll is profoundly threatened...",
+    "title": "Australia",
+    "year": "",
+    "studio": "",
+    "overview": "Island continent with unique wildlife and reefs.",
     "rating": "G",
-    "posterPath": "pics/scp173.png",
-    "categories": ["recommended"]
+    "posterPath": "pics/au.png",
+    "categories": ["recommended", "Oceania"]
+  },
+  {
+    "id": 5,
+    "title": "Bulgaria",
+    "year": "",
+    "studio": "",
+    "overview": "Historic Balkan nation with mountains and coast.",
+    "rating": "G",
+    "posterPath": "pics/bg.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 6,
+    "title": "Brazil",
+    "year": "",
+    "studio": "",
+    "overview": "Largest South American nation and Amazon home.",
+    "rating": "G",
+    "posterPath": "pics/br.png",
+    "categories": ["recommended", "South America"]
+  },
+  {
+    "id": 7,
+    "title": "Canada",
+    "year": "",
+    "studio": "",
+    "overview": "Vast northern country of forests and lakes.",
+    "rating": "G",
+    "posterPath": "pics/ca.png",
+    "categories": ["recommended", "North America"]
+  },
+  {
+    "id": 8,
+    "title": "Republic of the Congo",
+    "year": "",
+    "studio": "",
+    "overview": "Central African nation rich in rainforests.",
+    "rating": "G",
+    "posterPath": "pics/cd-bzv.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 9,
+    "title": "Switzerland",
+    "year": "",
+    "studio": "",
+    "overview": "Mountain nation famous for Alps and watches.",
+    "rating": "G",
+    "posterPath": "pics/ch.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 10,
+    "title": "Chile",
+    "year": "",
+    "studio": "",
+    "overview": "Long Pacific nation with deserts and glaciers.",
+    "rating": "G",
+    "posterPath": "pics/cl.png",
+    "categories": ["recommended", "South America"]
+  },
+  {
+    "id": 11,
+    "title": "China",
+    "year": "",
+    "studio": "",
+    "overview": "Ancient civilization and global economic power.",
+    "rating": "G",
+    "posterPath": "pics/cn.png",
+    "categories": ["recommended", "Asia"]
+  },
+  {
+    "id": 12,
+    "title": "Colombia",
+    "year": "",
+    "studio": "",
+    "overview": "Diverse country of mountains, coffee and coasts.",
+    "rating": "G",
+    "posterPath": "pics/co.png",
+    "categories": ["recommended", "South America"]
+  },
+  {
+    "id": 13,
+    "title": "Germany",
+    "year": "",
+    "studio": "",
+    "overview": "European leader known for engineering and culture.",
+    "rating": "G",
+    "posterPath": "pics/de.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 14,
+    "title": "Denmark",
+    "year": "",
+    "studio": "",
+    "overview": "Nordic kingdom with islands and happy living.",
+    "rating": "G",
+    "posterPath": "pics/dk.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 15,
+    "title": "Algeria",
+    "year": "",
+    "studio": "",
+    "overview": "Largest African country with vast Sahara lands.",
+    "rating": "G",
+    "posterPath": "pics/dz.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 16,
+    "title": "Estonia",
+    "year": "",
+    "studio": "",
+    "overview": "Baltic nation known for forests and technology.",
+    "rating": "G",
+    "posterPath": "pics/ee.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 17,
+    "title": "Egypt",
+    "year": "",
+    "studio": "",
+    "overview": "Home of pyramids, Nile River and ancient history.",
+    "rating": "G",
+    "posterPath": "pics/eg.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 18,
+    "title": "Spain",
+    "year": "",
+    "studio": "",
+    "overview": "Sunny nation of beaches, art and rich heritage.",
+    "rating": "G",
+    "posterPath": "pics/es.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 19,
+    "title": "Ethiopia",
+    "year": "",
+    "studio": "",
+    "overview": "Historic African nation with unique traditions.",
+    "rating": "G",
+    "posterPath": "pics/et.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 20,
+    "title": "Finland",
+    "year": "",
+    "studio": "",
+    "overview": "Land of lakes, forests and northern lights.",
+    "rating": "G",
+    "posterPath": "pics/fi.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 21,
+    "title": "France",
+    "year": "",
+    "studio": "",
+    "overview": "Known for art, cuisine, fashion and landmarks.",
+    "rating": "G",
+    "posterPath": "pics/fr.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 22,
+    "title": "United Kingdom",
+    "year": "",
+    "studio": "",
+    "overview": "Island nation with royal history and culture.",
+    "rating": "G",
+    "posterPath": "pics/gb.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 23,
+    "title": "Georgia",
+    "year": "",
+    "studio": "",
+    "overview": "Caucasus country famous for wine and mountains.",
+    "rating": "G",
+    "posterPath": "pics/ge.png",
+    "categories": ["recommended", "Asia"]
+  },
+  {
+    "id": 24,
+    "title": "Greenland",
+    "year": "",
+    "studio": "",
+    "overview": "World's largest island covered by vast ice.",
+    "rating": "G",
+    "posterPath": "pics/gl.png",
+    "categories": ["recommended", "North America"]
+  },
+  {
+    "id": 25,
+    "title": "Greece",
+    "year": "",
+    "studio": "",
+    "overview": "Birthplace of democracy with islands and ruins.",
+    "rating": "G",
+    "posterPath": "pics/gr.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 26,
+    "title": "India",
+    "year": "",
+    "studio": "",
+    "overview": "Vast nation of diverse cultures and traditions.",
+    "rating": "G",
+    "posterPath": "pics/in.png",
+    "categories": ["recommended", "Asia"]
+  },
+  {
+    "id": 27,
+    "title": "Italy",
+    "year": "",
+    "studio": "",
+    "overview": "Historic country of art, pasta and ancient Rome.",
+    "rating": "G",
+    "posterPath": "pics/it.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 28,
+    "title": "Kenya",
+    "year": "",
+    "studio": "",
+    "overview": "Safari destination with wildlife and savannas.",
+    "rating": "G",
+    "posterPath": "pics/ke.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 29,
+    "title": "Kyrgyzstan",
+    "year": "",
+    "studio": "",
+    "overview": "Mountainous Central Asian nation of nomad culture.",
+    "rating": "G",
+    "posterPath": "pics/kg.png",
+    "categories": ["recommended", "Asia"]
+  },
+  {
+    "id": 30,
+    "title": "Kazakhstan",
+    "year": "",
+    "studio": "",
+    "overview": "Largest Central Asian nation with vast steppes.",
+    "rating": "G",
+    "posterPath": "pics/kz.png",
+    "categories": ["recommended", "Asia"]
+  },
+  {
+    "id": 31,
+    "title": "Liechtenstein",
+    "year": "",
+    "studio": "",
+    "overview": "Tiny Alpine principality between Austria and Swiss.",
+    "rating": "G",
+    "posterPath": "pics/li.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 32,
+    "title": "Morocco",
+    "year": "",
+    "studio": "",
+    "overview": "North African kingdom with deserts and markets.",
+    "rating": "G",
+    "posterPath": "pics/ma.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 33,
+    "title": "Madagascar",
+    "year": "",
+    "studio": "",
+    "overview": "Island famous for unique wildlife and forests.",
+    "rating": "G",
+    "posterPath": "pics/mg.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 34,
+    "title": "Mexico",
+    "year": "",
+    "studio": "",
+    "overview": "Colorful nation known for cuisine and history.",
+    "rating": "G",
+    "posterPath": "pics/mx.png",
+    "categories": ["recommended", "North America"]
+  },
+  {
+    "id": 35,
+    "title": "Nigeria",
+    "year": "",
+    "studio": "",
+    "overview": "Africa's most populous country and energy giant.",
+    "rating": "G",
+    "posterPath": "pics/ng.png",
+    "categories": ["recommended", "Africa"]
+  },
+  {
+    "id": 36,
+    "title": "Norway",
+    "year": "",
+    "studio": "",
+    "overview": "Nordic land of fjords, mountains and nature.",
+    "rating": "G",
+    "posterPath": "pics/no.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 37,
+    "title": "Philippines",
+    "year": "",
+    "studio": "",
+    "overview": "Island nation with tropical beaches and culture.",
+    "rating": "G",
+    "posterPath": "pics/ph.png",
+    "categories": ["recommended", "Asia"]
+  },
+  {
+    "id": 38,
+    "title": "Poland",
+    "year": "",
+    "studio": "",
+    "overview": "Central European nation rich in history and arts.",
+    "rating": "G",
+    "posterPath": "pics/pl.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 39,
+    "title": "Portugal",
+    "year": "",
+    "studio": "",
+    "overview": "Atlantic nation known for explorers and coasts.",
+    "rating": "G",
+    "posterPath": "pics/pt.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 40,
+    "title": "Romania",
+    "year": "",
+    "studio": "",
+    "overview": "Carpathian country with castles and traditions.",
+    "rating": "G",
+    "posterPath": "pics/ro.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 41,
+    "title": "Russia",
+    "year": "",
+    "studio": "",
+    "overview": "World's largest country spanning Europe and Asia.",
+    "rating": "G",
+    "posterPath": "pics/ru.png",
+    "categories": ["recommended", "Europe", "Asia"]
+  },
+  {
+    "id": 42,
+    "title": "Sweden",
+    "year": "",
+    "studio": "",
+    "overview": "Scandinavian nation of forests and innovation.",
+    "rating": "G",
+    "posterPath": "pics/se.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 43,
+    "title": "Ukraine",
+    "year": "",
+    "studio": "",
+    "overview": "Eastern European nation with fertile plains.",
+    "rating": "G",
+    "posterPath": "pics/ua.png",
+    "categories": ["recommended", "Europe"]
+  },
+  {
+    "id": 44,
+    "title": "United States",
+    "year": "",
+    "studio": "",
+    "overview": "Large nation with diverse landscapes and culture.",
+    "rating": "G",
+    "posterPath": "pics/usa.png",
+    "categories": ["recommended", "North America"]
+  },
+  {
+    "id": 45,
+    "title": "South Africa",
+    "year": "",
+    "studio": "",
+    "overview": "Southern nation with wildlife and rich diversity.",
+    "rating": "G",
+    "posterPath": "pics/za.png",
+    "categories": ["recommended", "Africa"]
   }
 ]
